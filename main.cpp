@@ -1,4 +1,3 @@
-// GHack by Zalexanninev15
 // Example: Plants vs. Zombies (money)
 //
 //
