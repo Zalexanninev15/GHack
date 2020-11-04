@@ -1,5 +1,5 @@
 # GHack
-![](https://i.imgur.com/87D0ozC.jpg)
+![](https://github.com/Zalexanninev15/GHack/blob/master/GHack%20Logo.png)
 ## Description
 Utility for writing data to memory (as an example, you can work with money in the game "Plants vs. Zombies")
 
