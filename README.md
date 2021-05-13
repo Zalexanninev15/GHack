@@ -10,5 +10,8 @@
 ## Description
 Utility for writing data to memory (as an example, you can work with money in the game "Plants vs. Zombies")
 
+## System requirements
+* **OS:** Windows 7/8/8.1/10
+
 ## Build
 Compile using [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
