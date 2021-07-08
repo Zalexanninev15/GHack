@@ -3,6 +3,7 @@
 ![](https://github.com/Zalexanninev15/GHack/blob/master/GHack%20Logo.png)
 
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/GHack)
+[![](https://img.shields.io/badge/release-v1.0-blue.svg)](https://github.com/Zalexanninev15/GHack)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/GHack)](https://github.com/Zalexanninev15/GHack/commits/master)
 [![](https://img.shields.io/badge/license-GPLv3-ligthgreen.svg)](LICENSE)
 [![](https://img.shields.io/badge/donate-QIWI-FF8C00.svg)](https://qiwi.com/n/ZALEXANNINEV15)
